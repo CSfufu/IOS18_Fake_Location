@@ -1,0 +1,3 @@
+LocationConfig: "HNlocation.txt"
+libimobiledeviceDir: "libimobiledevice"
+imageDir: "DeveloperDiskImage"
